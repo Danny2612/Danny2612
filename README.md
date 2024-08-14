@@ -1,7 +1,8 @@
 - 👋 Olá! eu sou Danny2612!
-- 👀 Tenho interesse em Aprender Linguagem Python/Linguagem C++/JavaScript/Power BI/SQL
--  back-and /front-end .
-- Desenvolvimento de aplicativos/Banco de dados/IA
+- 👀 Tenho interesse em Aprender Linguagem Python/Linguagem C++/JavaScript
+- Ferramenta Power BI/SQL
+-  Desenvolvimento Back-end /Front-end .
+- Desenvolvimento de aplicativos/Banco de dados/IA/HTML e CSS.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💞️ Estou a procura de Estágio.
 - 📫Email: Daniella2612@hotmail.com
